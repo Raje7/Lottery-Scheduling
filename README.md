@@ -1,1 +1,1 @@
-# Lottery-Scheduling
+# Lottery Scheduling
